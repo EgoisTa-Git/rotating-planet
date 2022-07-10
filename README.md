@@ -14,5 +14,11 @@
 python main.py
 ```
 
+**Например:**
+
+<image
+  src="https://dvmn.org/media/lessons/ezgif-6-b66dd0b0be0f.gif"
+  alt="пример">
+  
 ***
 Код написан в образовательных целях на курсах для веб-разработчиков [dvmn.org](https://dvmn.org/).
